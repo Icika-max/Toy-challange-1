@@ -18,6 +18,7 @@ return "B"
     return "D"
  }
 else{//Grade E (0-39)
-    return "E"
+    return "E";
+
 }
 }
